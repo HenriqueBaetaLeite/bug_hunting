@@ -1,0 +1,13 @@
+{
+  "name": "15-06-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Trybe",
+  "license": "ISC"
+}
