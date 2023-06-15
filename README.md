@@ -29,12 +29,12 @@ Atualmente temos esta **"organização"**:
 
 > Obs. Ainda não conseguimos cadastrar as pessoas no MYSQL (está tudo em um array no arquivo **database.js**) e a API não esta funcionando.
 
-### TAREFAS:
+# TAREFAS:
 
-# corrigir os bugs
+### corrigir os bugs
 
-# deixar a aplicação funcional
+### deixar a aplicação funcional
 
-### Desafio:
+# Desafio:
 
-# Implementar MySQL
+### Implementar MySQL
